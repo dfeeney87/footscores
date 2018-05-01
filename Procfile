@@ -1,1 +1,1 @@
-web: node server/server.js & npm start
+web: npm start
